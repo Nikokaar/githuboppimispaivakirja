@@ -1,6 +1,6 @@
 # Oppimispäiväkirja: Hajautettu git
 
-__Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
+Tämän osioin tehtävät oli ehkä helpompia, koska näitä komentoja on väkisin tullut käytettyä jo aikaisemmillla tunneilla. Hyvää oli, että vähän tuon git fetch, git merge ja git pull komentojen logiikka tuli selkämmäksi.
 
 Kirjoita tähän vastauksesi
 
@@ -8,5 +8,5 @@ Kirjoita tähän vastauksesi
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git fetch // Lataa muutokset etärepositoriosta, mutta ei vielä yhdistä niitä.
+| git pull origin // Lataa muutokset ja yhdistää ne automaattisesti. Sama kuin git fetch ja git merge.
