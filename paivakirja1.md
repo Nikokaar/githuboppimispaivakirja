@@ -2,11 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Kirjoita tähän vastauksesi
+Olin aiemmilla kursseilla perehtynyt toki gittiin, mutta moni asia oli jäänyt oppimatta. Esim. en ollut juurikaan perehtynyt tuohon miten liikkua committeissa vanhempaan. En myöskään tuota restore komentoa ollut käyttänyt aiemmin. Haarojen olemassaolosta tiesin, mutta tämä osio selkeytti niiden tarkoitusta aika paljon.
 
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git switch master // Siirrytään master haaraan
+| git merge develop // Yhdistetään develop-haara nykyiseen haaraan
