@@ -10,12 +10,12 @@ Olin aiemmilla kursseilla perehtynyt toki gittiin, mutta moni asia oli jäänyt 
 
 | Komento | Kuvaus |
 | --------| ------ |
-| git switch master // Siirrytään master haaraan
-| git merge develop // Yhdistetään develop-haara nykyiseen haaraan
-| git add * // Otetaan tiedosto mukaan mukaan seuraavaan talletukseen tai kaikki muutetut jos git add .
-| git rm * // Poistaa tiedoston työhakemistosta ja Git-hallinasta.
-| git commit -m " " // Tallettaa tehdyt muutokset ja nimeää ne käyttäjän haluamalla commitilla
-| git log // Tulostaa kaikki tehdyt muutokset
+| git switch master | Siirrytään master haaraan
+| git merge develop | Yhdistetään develop-haara nykyiseen haaraan
+| git add * | Otetaan tiedosto mukaan mukaan seuraavaan talletukseen tai kaikki muutetut jos git add .
+| git rm * | Poistaa tiedoston työhakemistosta ja Git-hallinasta.
+| git commit -m " " | Tallettaa tehdyt muutokset ja nimeää ne käyttäjän haluamalla commitilla
+| git log | Tulostaa kaikki tehdyt muutokset
 
 # Oppimispäiväkirja: Hajautettu git
 
@@ -27,11 +27,11 @@ Kirjoita tähän vastauksesi
 
 | Komento | Kuvaus |
 | --------| ------ |
-| git fetch // Lataa muutokset etärepositoriosta, mutta ei vielä yhdistä niitä.
-| git pull origin // Lataa muutokset ja yhdistää ne automaattisesti. Sama kuin git fetch ja git merge.
-| git clone // Kloonaa omalle koneelle repositorioin halutusta Github-osoitteesta.
-| git push // Puskee paikalliset muutokset Githubin etärepositorioon.
-| git pull // Hakee etärepositoriosta muutokset ja tallentaa ne paikallisesti.
+| git fetch | Lataa muutokset etärepositoriosta, mutta ei vielä yhdistä niitä.
+| git pull origin | Lataa muutokset ja yhdistää ne automaattisesti. Sama kuin git fetch ja git merge.
+| git clone | Kloonaa omalle koneelle repositorioin halutusta Github-osoitteesta.
+| git push | Puskee paikalliset muutokset Githubin etärepositorioon.
+| git pull | Hakee etärepositoriosta muutokset ja tallentaa ne paikallisesti.
 
 # Oppimispäiväkirja: Git projektissa
 
